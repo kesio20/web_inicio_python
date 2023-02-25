@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(250, 8%, 44%);
+}
+h1{
+    color: rgba(255, 0, 0, 0.5);
+    font-size: 30px;
+    text-align: center;
+    border: 25px solid rgb(0, 217, 255);
+}
+h2{
+    color: rgb(20, 220, 87);
+    font-size: 100px;
+    text-align: right;
+    border: 15px dotted brown;
+}
+h3{
+    text-align: left;
+    color: rgb(255, 0, 106);
+    font-size: 50px;
+    border: 10px double blue;
+}
+h4{
+    text-align: right;
+    color: cornflowerblue;
+    font-size: 65px;
+    border: 25px outset antiquewhite;
+    
+}
+img{
+    margin-left: 250px;
+
+}
+
+
